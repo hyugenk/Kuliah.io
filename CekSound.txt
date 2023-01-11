@@ -1,0 +1,32 @@
+Nomor 1
+sudo useradd L200210023
+sudo passwd L200210023
+
+Nomor 2.
+touch L200210023
+chmod o+w-x L200210023
+ls -l L200210023
+
+
+
+Nomor 3.
+
+nano L200210023.sh
+
+#!bin/bash
+
+echo "Nama : Hyuga Dewanto Kojyro"
+echo "Nim : L200210023"
+echo "TTL : 14062002"
+echo "Tanggal : 141023"
+
+
+Nomor 4
+
+nano L200210023.txt
+<isi file>
+
+gcc L200210023.txt -o L200210023
+grep Hyuga L200210023.txt
+
+cp L200210023.txt Nama.txt
