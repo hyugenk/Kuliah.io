@@ -16,3 +16,5 @@ No | Nama Bangun     | Rumus Luas
  4 | Lingkaran       | {Rumus['Circle']}
  5 | Jajar Genjang   | {Rumus['Parallelogram']}
 ''')
+
+#Gunakan python IDLE 3.10
